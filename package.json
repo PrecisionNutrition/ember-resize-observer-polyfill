@@ -1,6 +1,6 @@
 {
   "name": "ember-resize-observer-polyfill",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A polyfill of ResizeObserver API for Ember.",
   "keywords": [
     "ember-addon"
